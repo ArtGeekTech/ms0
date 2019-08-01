@@ -22,6 +22,8 @@
         <!--        <module>data-simulator</module>-->
         <!--        <module>data-consumer</module>-->
         <!--        <module>data-dashboard</module>-->
+        <module>serviceregistry</module>
+        <module>usersystem</module>
     </modules>
 
     <packaging>pom</packaging>
